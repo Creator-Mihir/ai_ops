@@ -5,6 +5,6 @@
   "/dashboard": "pages/dashboard.js",
   "/github": "pages/github.js",
   "/login": "pages/login.js",
-  "/platform": "pages/platform.js",
-  "/signup": "pages/signup.js"
+  "/monitor/[id]": "pages/monitor/[id].js",
+  "/platform": "pages/platform.js"
 }

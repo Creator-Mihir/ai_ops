@@ -11,11 +11,11 @@ self.__BUILD_MANIFEST = {
   "/login": [
     "static/chunks/pages/login.js"
   ],
+  "/monitor/[id]": [
+    "static/chunks/pages/monitor/[id].js"
+  ],
   "/platform": [
     "static/chunks/pages/platform.js"
-  ],
-  "/signup": [
-    "static/chunks/pages/signup.js"
   ],
   "__rewrites": {
     "afterFiles": [],
